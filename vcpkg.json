@@ -1,0 +1,5 @@
+{
+  "name": "ransomware-study",
+  "version-string": "0.1.0",
+  "dependencies": ["fmt"]
+}
